@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iomanip": "cpp",
+        "ostream": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "xstddef": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp"
+    }
+}
